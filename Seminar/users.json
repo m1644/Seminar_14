@@ -1,0 +1,34 @@
+{
+    "1": {
+        "name": "Максим",
+        "access_level": 1
+    },
+    "2": {
+        "name": "Иван",
+        "access_level": 2
+    },
+    "3": {
+        "name": "Мария",
+        "access_level": 3
+    },
+    "4": {
+        "name": "Марина",
+        "access_level": 4
+    },
+    "5": {
+        "name": "Петр",
+        "access_level": 5
+    },
+    "6": {
+        "name": "Николай",
+        "access_level": 6
+    },
+    "7": {
+        "name": "Гоша",
+        "access_level": 7
+    },
+    "8": {
+        "name": "Дмитрий",
+        "access_level": 7
+    }
+}
